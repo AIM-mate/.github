@@ -1,5 +1,4 @@
-## AIM    
-![1590351037632](https://user-images.githubusercontent.com/101568658/158388864-8d4b1169-4b4f-4513-9715-d4b925dc85bc.png)
+## AIM       ![Copy of Copia di logo_orig](https://user-images.githubusercontent.com/101568658/158389313-4a73d962-ab5d-42bd-994f-2c3759f62398.png)
 
 🤝 AIM is a no-profit student association with the purpose of providing ways to connect students and graduates from the Politecnico di Milano Mathematical Engineering program.
 
