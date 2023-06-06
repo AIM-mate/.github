@@ -17,11 +17,11 @@
 </a>
 <a href="https://www.instagram.com/aim.mate/">
     <img align="left" src="https://raw.githubusercontent.com/AIM-mate/.github/master/profile/instagram.svg"
-        alt="icon | Linkedin" width="21px"
+        alt="icon | Instagram" width="21px"
     />
 </a>
-- direttivo@aim-mate.it
-
-### Our Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AIM-mate)](https://github.com/AIM-mate)
+<a href="mailto:direttivo@aim-mate.it">
+    <img align="left" src="https://raw.githubusercontent.com/AIM-mate/.github/master/profile/gmail.svg"
+        alt="icon | Mail" width="21px"
+    />
+</a>
