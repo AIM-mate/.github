@@ -26,6 +26,6 @@
     />
 </a>
 <a href="https://aim-mate.it/">
-    <img align="left" src="https://raw.githubusercontent.com/AIM-mate/.github/master/profile/webFoto.svg"
+    <img align="left" src="https://raw.githubusercontent.com/AIM-mate/.github/master/profile/webIcon.svg"
          alt="icon | Website" width="25px" />
 </a>
