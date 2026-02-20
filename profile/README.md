@@ -25,7 +25,7 @@
         alt="icon | Mail" width="21px"
     />
 </a>
-<a href="https://https://aim-mate.it/">
+<a href="https://aim-mate.it/">
     <img align="left" src="https://raw.githubusercontent.com/AIM-mate/.github/master/profile/webFoto.svg"
          alt="icon | Website" width="25px" />
 </a>
